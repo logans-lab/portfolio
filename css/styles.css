@@ -488,7 +488,7 @@ progress {
   display: none !important;
 }
 
-.container-video {
+.video-container {
     position: relative;
     width: 100%;
     height: 0;
